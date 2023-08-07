@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **yagnikchovatiya777@gmail.com**
 
-- 📫 How to reach me **+918264683525**
+- 📫 How to reach me **+91 8264683525**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
