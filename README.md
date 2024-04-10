@@ -5,7 +5,7 @@
 
 - 🔭 Last project [Konnekt App](https://play.google.com/store/apps/details?id=com.kokonetworks.konnekt)
 
-- 🌱 I’m currently learning **Augmented reality in Flutter**
+- 🌱 I’m currentlly in Flutter.
 
 - 💬 Ask me about **yagnikchovatiya777@gmail.com**
 
